@@ -3,8 +3,7 @@
 **Offensive Security Practitioner | AI Security Researcher | Exploit Developer**  
 *6+ Years Ethical Hacking | Kali Linux Specialist | Python Automation Engineer*
 **AI Jailbreak Engineer | Offensive Security Practitioner | Exploit Developer**  
-*Building weapons, breaking assumptions, and bending AI to my will.*  
-*6+ Years in the Trenches | Kali Native | Python Exploit Developer*
+| Kali Native | Python Exploit Developer*
 
 ---
 
@@ -61,22 +60,6 @@
 
 ---
 
-## Current Arsenal
-
-| Tool | Description | Status |
-|------|-------------|--------|
-| 🔓 **PromptBreaker** | AI jailbreak & prompt injection fuzzer | ⚡ Building |
-| 🔍 **AutoRecon** | Automated recon wrapper (Nmap + SQLMap + Gobuster) | ⚡ Building |
-| 🔦 **ShadowScan** | AI-assisted network reconnaissance | 📝 Planning |
-| 🌙 **Nightfall C2** | Rust + Go C2 framework | 📝 Planning |
-| 🏴 **DarkHound** | Custom BloodHound queries for AD | 📝 Planning |
-| 📚 **0xNotes** | Living knowledge base of techniques | 📝 Active |
-| 🔐 **SQLMap-Pro** | Custom SQLMap wrapper with advanced tamper scripts | 📝 Planning |
-| 🎯 **Wordlist-Engine** | Smart wordlist generator with leetspeak + mutations | 📝 Planning |
-| 📡 **Jailbreak-DB** | Collection of AI jailbreak prompts | 📝 Active |
-| 💀 **Exploit-DB** | Personal collection of exploits and resource scripts | 📦 Private |
-
----
 
 ## 🛠️ Tools I Use Daily
 
@@ -106,18 +89,23 @@
 . Make ai your partner , make it work and let it succeed
 
 ---
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShadowDayzOffSec&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowDayzOffSec&layout=compact&theme=dark&hide_border=true)](https://github.com/ShadowDayzOffSec)
+
+---
 
 🗣️ Quotes
 
 "Exploitation is just automation with intent. Master the tools, understand the protocol, and the shell will follow."
 
-"If it's built by AI, it's breakable by me."
 
-"6 years in the trenches. Still learning. Still breaking."
+" Still learning. Still breaking."
 
 ---
 
-Last Updated: 2026-06-28
 Status: 🟢 Fully Operational
 Motto: "If it's built, it's breakable."
 
