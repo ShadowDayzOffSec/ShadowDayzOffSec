@@ -93,17 +93,6 @@
 
 ---
 
-
-📊 Stats
-
-https://github-readme-streak-stats.herokuapp.com?user=ShadowDayzOffSec&theme=dark&hide_border=true
-
-https://github-readme-stats.vercel.app/api?username=ShadowDayzOffSec&show_icons=true&theme=dark&hide_border=true&count_private=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowDayzOffSec&layout=compact&theme=dark&hide_border=true&langs_count=8
-
----
-
 ⚡ Fun Facts
 
 · 🧠 I jailbreak AI models for fun and research
