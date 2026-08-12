@@ -159,7 +159,7 @@ Command-line implementation of classical ciphers (Caesar, Vigenère, Affine, Rai
   <a href="https://github.com/ShadowDayzOffSec">
     <img src="https://img.shields.io/badge/GitHub-7B3FF2?style=for-the-badge&logo=github&logoColor=white&labelColor=5A2D9C" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/animish-sawant-565a12405">
+  <a href="https://www.linkedin.com/in/animish-sawant-45b710428?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-7B3FF2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=5A2D9C" alt="LinkedIn" />
   </a>
 </p>
